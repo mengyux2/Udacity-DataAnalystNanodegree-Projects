@@ -1,6 +1,7 @@
 # Udacity DataAnalyst Nanodegree Projects(2017)
 
-[link to certificate](https://confirm.udacity.com/UUD93YLL)
+[link to certificate](https://confirm.udacity.com/UUD93YLL)  
+
 6 projects associated with Udacity Data Analyst Nanodegree. Skills used for those projects include data operations with numpy and Pandas, visualizations using matplotlib. R programming and its visualization tool ggplot2 were also used in similar tasks. Python were used for parsing json and xml object in some of data wrangling projects. sklearn toolkits were used in machine learning project. Tableau was used for some of interactive data visualization tasks.  
 
 **Full jupyter notebook of each project can be found in each folder.** 
